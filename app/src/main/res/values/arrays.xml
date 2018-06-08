@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_section_labels">
+        <item>@string/settings_section_politics_label</item>
+        <item>@string/settings_section_games_label</item>
+        <item>@string/settings_section_technology_label</item>
+        <item>@string/settings_section_business_label</item>
+    </string-array>
+    <string-array name="settings_order_by_labels">
+        <item>@string/settings_order_by_relevance_label</item>
+        <item>@string/settings_order_by_newest_label</item>
+        <item>@string/settings_order_by_oldest_label</item>
+    </string-array>
+    <string-array name="settings_section_values">
+        <item>@string/settings_section_politics_value</item>
+        <item>@string/settings_section_games_value</item>
+        <item>@string/settings_section_technology_value</item>
+        <item>@string/settings_section_business_value</item>
+    </string-array>
+    <string-array name="settings_order_by_values">
+        <item>@string/settings_order_by_relevance_value</item>
+        <item>@string/settings_order_by_newest_value</item>
+        <item>@string/settings_order_by_oldest_value</item>
+    </string-array>
+</resources>
